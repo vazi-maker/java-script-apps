@@ -1,0 +1,3 @@
+git  == initialized empty git repository
+git add . == to send all files to remote repository
+git commit -m myfirst commit"
